@@ -11,8 +11,8 @@ Model - [BigQuery code for relational model](https://github.com/insyspo/openalex
 
 The steps are as follows.
 - First file (Upload):
-  - Using a Google VM we download the most recent dump.
-  - The dump is uploads as tables. One for each of the main entities.
+  - Using a Google VM we download the most recent dump. [OpenAlex dump](https://docs.openalex.org/download-all-data/openalex-snapshot).
+  - The dump is uploaded as tables. One for each of the main entities [Entities](https://docs.openalex.org/api-entities/entities-overview).
   - The tables have just one column as a JSON entry are uploaded to BigQuery using a project already set up. [How to create projects](https://cloud.google.com/resource-manager/docs/creating-managing-projects).
 - Second file (Model):
   - Everything is run over Google Colaboratory takig advatage of the internal authorisation mechanism. Also, the queries are organised in sequence. [Integrating Colab and BigQuery](https://colab.research.google.com/notebooks/bigquery.ipynb). 
