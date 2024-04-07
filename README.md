@@ -3,6 +3,8 @@
 Code to upload OpenAlex dump and split it into tables.
 
 The code is divided into two files.
+[Bash commands to upload](https://github.com/insyspo/openalex/blob/main/bash_commands_to_download_and_upload.ipynb)
+[BigQuery code for relational model](https://github.com/insyspo/openalex/blob/main/OpenAlex_create_tables_2024_02.ipynb)
 
 
 The steps are as follows.
