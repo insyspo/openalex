@@ -18,4 +18,4 @@ The steps are as follows.
   - Everything is run over Google Colaboratory takig advatage of the internal authorisation mechanism. Also, the queries are organised in sequence. [Integrating Colab and BigQuery](https://colab.research.google.com/notebooks/bigquery.ipynb). 
   - All the tables are split into fields creating columns for the values.
   - New tables are created to connect the main ones.
-  - New tables are created to explode the array of data inside de values in the tables.
+  - New tables are created to explode the array of data inside the values in the tables.
