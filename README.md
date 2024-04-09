@@ -6,7 +6,7 @@ The code is divided into two files.
 
 Upload - [Bash commands to upload](https://github.com/insyspo/openalex/blob/main/bash_commands_to_download_and_upload.ipynb)
 
-Model - [BigQuery code for relational model](https://github.com/insyspo/openalex/blob/main/OpenAlex_create_tables_2024_02.ipynb)
+Model - [BigQuery code for relational model](https://github.com/insyspo/openalex/blob/main/OpenAlex_create_tables_2024_04.ipynb)
 
 
 The steps are as follows.
