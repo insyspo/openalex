@@ -1,6 +1,6 @@
 # OpenAlex upload to BigQuery
 
-Code to upload OpenAlex dump and split it into tables.
+## Code to upload OpenAlex dump and split it into tables
 
 The code is divided into two files.
 
@@ -8,9 +8,9 @@ Upload - [Bash commands to upload](https://github.com/insyspo/openalex/blob/main
 
 Model - [BigQuery code for relational model](https://github.com/insyspo/openalex/blob/main/OpenAlex_create_tables_2024_04.ipynb)
 
-Diagrams for tables
+## Diagrams for tables
 
-[General]
+[General](https://github.com/insyspo/openalex/blob/main/openalex.png)
 [Authors](https://github.com/insyspo/openalex/blob/main/authors.png)
 [Concepts](https://github.com/insyspo/openalex/blob/main/concepts.png)
 [Topics](https://github.com/insyspo/openalex/blob/main/topics.png)
@@ -22,7 +22,7 @@ Diagrams for tables
 [Sources](https://github.com/insyspo/openalex/blob/main/sources.png)
 [Publishers](https://github.com/insyspo/openalex/blob/main/publishers.png)
 
-
+## Steps
 
 The steps are as follows.
 - First file (Upload):
