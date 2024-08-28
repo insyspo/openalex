@@ -10,17 +10,17 @@ Model - [BigQuery code for relational model](https://github.com/insyspo/openalex
 
 ## Diagrams for tables
 
-[General](https://github.com/insyspo/openalex/blob/main/openalex.png)
-[Authors](https://github.com/insyspo/openalex/blob/main/authors.png)
-[Concepts](https://github.com/insyspo/openalex/blob/main/concepts.png)
-[Topics](https://github.com/insyspo/openalex/blob/main/topics.png)
-[Works](https://github.com/insyspo/openalex/blob/main/works.png)
-[Institutions](https://github.com/insyspo/openalex/blob/main/institutions.png)
-[Fields](https://github.com/insyspo/openalex/blob/main/fields.png)
-[Subfields](https://github.com/insyspo/openalex/blob/main/subfields.png)
-[Domains](https://github.com/insyspo/openalex/blob/main/domains.png)
-[Sources](https://github.com/insyspo/openalex/blob/main/sources.png)
-[Publishers](https://github.com/insyspo/openalex/blob/main/publishers.png)
+- [General](https://github.com/insyspo/openalex/blob/main/openalex.png)
+- [Authors](https://github.com/insyspo/openalex/blob/main/authors.png)
+- [Concepts](https://github.com/insyspo/openalex/blob/main/concepts.png)
+- [Topics](https://github.com/insyspo/openalex/blob/main/topics.png)
+- [Works](https://github.com/insyspo/openalex/blob/main/works.png)
+- [Institutions](https://github.com/insyspo/openalex/blob/main/institutions.png)
+- [Fields](https://github.com/insyspo/openalex/blob/main/fields.png)
+- [Subfields](https://github.com/insyspo/openalex/blob/main/subfields.png)
+- [Domains](https://github.com/insyspo/openalex/blob/main/domains.png)
+- [Sources](https://github.com/insyspo/openalex/blob/main/sources.png)
+- [Publishers](https://github.com/insyspo/openalex/blob/main/publishers.png)
 
 ## Steps
 
